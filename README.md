@@ -1,6 +1,6 @@
-# 05-06vuecomponents
+# Notes Application
 
-> A Vue.js project
+> Using VueJS & Masonry
 
 ## Build Setup
 
